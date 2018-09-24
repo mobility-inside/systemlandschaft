@@ -1,7 +1,7 @@
 # systemlandschaft
 Übersicht über die Systeme, Tarife und Unternehmungen im ÖPNV.
 
-[Dokumente](wiki) im Wiki und Stammdaten im Code-Repository. 
+[Dokumente](https://github.com/mobility-inside/systemlandschaft/wiki) im Wiki und Stammdaten im Code-Repository. 
 
 # Motivation
 
