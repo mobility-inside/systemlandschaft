@@ -9,3 +9,6 @@ Diese Initiative dient der Konzentration der öffentlich zugänglichen Informati
 Ziel der Initiative ist eine durch die Gemeinschaft erstellte und aktualisierte Dokumentation.
 
 Die Information ist nicht auf Wikipedia, damit der Dokumentatisonprozess einfacher gestaltbar ist.
+
+# Mitarbeit
+Motivierte Mitarbeiter schalten wir gerne auf. Anklopfen genügt ;-)
